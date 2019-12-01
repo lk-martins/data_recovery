@@ -20,7 +20,12 @@ Os slides usados na aula podem ser encontrados [aqui](https://jp-guimaraes.githu
 ## Técnicas de recuperação de dados
 
 * Manutenção Corretiva
+
+Manutenção corretiva acontece quando é preciso consertar coisas que quebraram ou que não estão funcionando bem. Ela é realizada para reparar danos encontrados a manutenção preventiva. De modo geral, a manutenção corretiva não é uma atividade de manutenção programada, porque ela, normalmente, só é feita depois que um componente é danificado e pretende recuperar o estado original de um componente do sistema.
+
 * Manutenção Preventiva
+
+Manutenção Preventiva é o tipo de manutenção realizada em intervalos programadados, de acordo com critérios específicos, com o objetivo de reduzir a probabilidade de falha do funcionamento de um componente.
 
 Recuperar, mas por quê?
 
